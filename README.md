@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme 👋
 
-Texto sobre Mim
+Desenvolvedor apaixonado por tecnologia em geral, acreditando que esse campo, em suas diversas áreas, é uma das melhores formas de ajudar as pessoas a resolverem seus problemas. Como pessoa, tenho um gosto voltado à cultura geek, incluindo alguns tipos de animes, séries, filmes e jogos, dando preferência a obras que fujam da realidade, com temáticas futuristas, sci-fi ou de fantasia.
 
 ## 🌳Tenho mais experiência com
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,4 +18,4 @@ Texto sobre Mim
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegodoydev&show_icons=true&theme=gruvbox&hide=stars,prs,contribs)]
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegodoydev&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide=stars,prs,contribs)
