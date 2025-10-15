@@ -25,8 +25,6 @@ Desenvolvedor apaixonado por tecnologia em geral, acreditando que esse campo, em
 
 ## 🌱Estou aprendendo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 📊Métricas
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegodoydev&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide=stars,prs,contribs)
