@@ -20,7 +20,7 @@ Desenvolvedor apaixonado por tecnologia em geral, acreditando que esse campo, em
 ### 🛢️Banco de Dados 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
-### 🔭Menos Experiência
+## 🔭Menos Experiência
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🌱Estou aprendendo
