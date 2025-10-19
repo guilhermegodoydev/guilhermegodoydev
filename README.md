@@ -14,8 +14,6 @@ Desenvolvedor apaixonado por tecnologia em geral, acreditando que esse campo, em
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 
 ### 🛢️Banco de Dados 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
@@ -25,6 +23,8 @@ Desenvolvedor apaixonado por tecnologia em geral, acreditando que esse campo, em
 
 ## 🌱Estou aprendendo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 
 ### 📊Métricas
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegodoydev&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide=stars,prs,contribs)
