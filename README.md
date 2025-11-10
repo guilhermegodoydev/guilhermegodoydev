@@ -21,10 +21,6 @@ Desenvolvedor apaixonado por tecnologia em geral, acreditando que esse campo, em
 ## 🔭Menos Experiência
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🌱Estou aprendendo
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 
 ### 📊Métricas
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegodoydev&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide=stars,prs,contribs)
