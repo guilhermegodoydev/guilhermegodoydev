@@ -1,23 +1,65 @@
-# Olá, eu sou Guilherme 👋
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=35&descAlign=50&descAlignY=85&textBg=false&color=7aa2f7"  />
+</div>
 
-Desenvolvedor apaixonado por tecnologia em geral, acreditando que esse campo, em suas diversas áreas, é uma das melhores formas de ajudar as pessoas a resolverem seus problemas. Como pessoa, tenho um gosto voltado à cultura geek, incluindo alguns tipos de animes, séries, filmes e jogos, dando preferência a obras que fujam da realidade, com temáticas futuristas, sci-fi ou de fantasia.
+###
 
-## 🌳Experiência com
+<h1 align="center">Hey 👋What's Up?</h1>
 
-### 📚Linguagens
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+###
 
-### 📦Frameworks / Bibliotecas
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
+<div align="center">
 
-### 🛢️Banco de Dados 
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr border="0">
+  
+  <td align="center" border="0">
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+    <br />
+    React
+  </td>
+  
+  <td align="center" border="0">
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+    <br />
+    MySQL
+  </td>
+  
+  <td align="center" border="0">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+    <br />
+    Tailwind CSS
+  </td>
+  
+  <td align="center" border="0">
+    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+    <br />
+    C#
+  </td>
+  
+  </tr>
+</table>
 
+</div>
 
-### 📊Métricas
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegodoydev&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide=stars,prs,contribs)
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1a1b26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/guilhermegodoydev/guilhermegodoydev/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/guilhermegodoydev/guilhermegodoydev/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
+  <img src="https://raw.githubusercontent.com/guilhermegodoydev/guilhermegodoydev/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7aa2f7"  />
+</div>
+
+###
