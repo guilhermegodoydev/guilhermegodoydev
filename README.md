@@ -4,7 +4,29 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="center">Olá! Como vai? 👋</h2>
+
+###
+
+<p align="left">
+Sou o Guilherme e espero que tenha gostado do visual do meu perfil.
+</p>
+
+<p align="left">
+Desenvolvedor front-end focado na construção de interfaces e ferramentas web modernas, com ênfase em automação e experiência do desenvolvedor.
+</p>
+
+###
+
+### 🧠 Sobre mim
+
+<ul>
+  <li>💻 Trabalho com React e TypeScript no dia a dia</li>
+  <li>🎨 Uso Tailwind, React Query e Zod em projetos reais</li>
+  <li>🔌 Integro APIs e BaaS como Supabase</li>
+  <li>⚙️ Gosto de construir ferramentas e sistemas, não só interfaces</li>
+  <li>🚀 Estou em busca de oportunidades como dev júnior ou estágio</li>
+</ul>
 
 ###
 
