@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&size=24&center=true&vCenter=true&width=1000&lines=React+%7C+TypeScript+%7C+TailwindCSS;Construindo+aplicações+web+modernas;Focado+em+DX%2C+tooling+e+automação" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&size=24&center=true&vCenter=true&width=1000&lines=React+%7C+TypeScript+%7C+TailwindCSS;Construindo+aplicações+web+modernas;Focado+em+DX%2C+e+automação" />
 </p>
 
 ---
@@ -34,17 +34,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 Nexapulse → [Live Demo](https://nexapulse.netlify.app/) | [Repositório](https://github.com/guilhermegodoydev/nexapulse)
-
-CRM B2B desenvolvido como uma reconstrução completa de uma versão anterior, com foco em arquitetura escalável, consistência de dados e definição clara de MVP.
-
-O projeto foi reestruturado utilizando Feature-Sliced Design (FSD), separando responsabilidades por domínio para melhorar manutenibilidade e escalabilidade da aplicação.
-
-A camada de dados foi migrada para Supabase, utilizando PostgreSQL e políticas de segurança (RLS), junto com React Query para gerenciamento de estado assíncrono e cache inteligente.
-
-Stack: React • Vite • TypeScript • Supabase • React Query • Zod
-
-### 🔹 Snapport → [Documentação](https://guilhermegodoydev.github.io/snapport/) | [Repositório](https://github.com/guilhermegodoydev/snapport)
+### 🔹 Snapport → [Documentação](https://guilhermegodoydev.github.io/snapport) | [Repositório](https://github.com/guilhermegodoydev/snapport)
 
 Utiliza GitHub API para gerar automaticamente a interface baseada em repositórios e topics.
 
@@ -54,13 +44,24 @@ A lib fornece uma forma simples de renderizar e organizar projetos diretamente n
 
 Stack: TypeScript • GitHub API
 
+
+### 🔹 Nexapulse → [Live Demo](https://nexapulse.netlify.app) | [Repositório](https://github.com/guilhermegodoydev/nexapulse)
+
+CRM B2B desenvolvido como uma reconstrução completa de uma versão anterior, com foco em arquitetura escalável, consistência de dados e definição clara de MVP.
+
+O projeto foi reestruturado utilizando Feature-Sliced Design (FSD), separando responsabilidades por domínio para melhorar manutenibilidade e escalabilidade da aplicação.
+
+A camada de dados foi migrada para Supabase, utilizando PostgreSQL e políticas de segurança (RLS), junto com React Query para gerenciamento de estado assíncrono e cache inteligente.
+
+Stack: React • Vite • TypeScript • Supabase • React Query • Zod
+
 ---
 
 <h2 align="center">🌐 Contato</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/guilherme-godoy-495407389/" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-godoy-495407389" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
