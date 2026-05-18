@@ -32,7 +32,19 @@
 
 ---
 
-### 🔹 Snapport → [Documentação](https://guilhermegodoydev.github.io/snapport/)
+## 🚀 Projetos em Destaque
+
+### 🔹 Nexapulse → [Live Demo](https://nexapulse.netlify.app/) | [Repositório](https://github.com/guilhermegodoydev/nexapulse)
+
+CRM B2B desenvolvido como uma reconstrução completa de uma versão anterior, com foco em arquitetura escalável, consistência de dados e definição clara de MVP.
+
+O projeto foi reestruturado utilizando Feature-Sliced Design (FSD), separando responsabilidades por domínio para melhorar manutenibilidade e escalabilidade da aplicação.
+
+A camada de dados foi migrada para Supabase, utilizando PostgreSQL e políticas de segurança (RLS), junto com React Query para gerenciamento de estado assíncrono e cache inteligente.
+
+Stack: React • Vite • TypeScript • Supabase • React Query • Zod
+
+### 🔹 Snapport → [Documentação](https://guilhermegodoydev.github.io/snapport/) | [Repositório](https://github.com/guilhermegodoydev/snapport)
 
 Utiliza GitHub API para gerar automaticamente a interface baseada em repositórios e topics.
 
@@ -44,47 +56,11 @@ Stack: TypeScript • GitHub API
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔹 Nexapulse → [Live Demo](https://nexapulse.netlify.app/)
-
-CRM B2B desenvolvido como uma reconstrução completa de uma versão anterior, com foco em arquitetura escalável, consistência de dados e definição clara de MVP.
-
-O projeto foi reestruturado utilizando Feature-Sliced Design (FSD), separando responsabilidades por domínio para melhorar manutenibilidade e escalabilidade da aplicação.
-
-A camada de dados foi migrada para Supabase, utilizando PostgreSQL e políticas de segurança (RLS), junto com React Query para gerenciamento de estado assíncrono e cache inteligente.
-
-Stack: React • Vite • TypeScript • Supabase • React Query • Zod
-
----
-
-## 📚 Atualmente Estudando
-
-- Testes com Vitest (foco em qualidade de aplicações React)
-- Next.js (SSR e arquitetura moderna de front-end)
-- .NET Core (exploração de backend para complementar visão full-stack)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/guilhermegodoydev/guilhermegodoydev/stats-output/stats.svg" height="160" alt="stats graph" />
-
-<img src="https://raw.githubusercontent.com/guilhermegodoydev/guilhermegodoydev/languages-output/languages.svg" height="160" alt="languages graph" />
-
-<img src="https://raw.githubusercontent.com/guilhermegodoydev/guilhermegodoydev/trophy-output/trophy.svg" height="160" alt="trophy graph" />
-
-</div>
-
----
-
 <h2 align="center">🌐 Contato</h2>
 
 <div align="center">
 
-<a href="SEU_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-godoy-495407389/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
