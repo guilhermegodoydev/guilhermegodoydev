@@ -27,7 +27,7 @@
 ## 🛠 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
 </p>
 
 ---
