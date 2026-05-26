@@ -5,7 +5,7 @@
 <h1 align="center">Guilherme Godoy</h1>
 
 <p align="center">
-  Desenvolvedor Front-end focado em aplicações web modernas. Interesse em automação de fluxos e ferramentas para melhorar produtividade no desenvolvimento.
+  Desenvolvedor de Software | Foco em React, TypeScript e expandindo para o ecossistema Full-Stack (.NET / Next.js)
 </p>
 
 <p align="center">
@@ -19,8 +19,8 @@
 - 💻 Trabalho com React e TypeScript
 - 🎨 Desenvolvimento de interfaces modernas com Tailwind, React Query e Zod
 - 🔌 Integração com APIs e plataformas BaaS como Supabase
-- ⚙️ Interesse em arquitetura front-end, tooling e experiência do desenvolvedor
-- 🚀 Em busca de oportunidades como desenvolvedor front-end júnior ou estágio
+- ⚙️ Interesse em arquitetura front-end, experiência do desenvolvedor
+- 🚀 Em busca de oportunidades de Estágio em Desenvolvimento de Software.
 
 ---
 
@@ -69,7 +69,7 @@ Stack: React • Vite • TypeScript • Supabase • React Query • Zod
 
 ---
 
-<p align="center">Buscando oportunidades como desenvolvedor front-end júnior com foco em aplicações modernas, DX e arquitetura de interfaces.</p>
+<p align="center">Em busca de oportunidades de Estágio em Desenvolvimento de Software.</p>
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=7aa2f7" />
