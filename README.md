@@ -5,11 +5,11 @@
 <h1 align="center">Guilherme Godoy</h1>
 
 <p align="center">
-  Desenvolvedor de Software | Foco em React, TypeScript e expandindo para o ecossistema Full-Stack (.NET / Next.js)
+  Desenvolvedor de Software
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&size=24&center=true&vCenter=true&width=1000&lines=React+%7C+TypeScript+%7C+TailwindCSS;Construindo+aplicações+web+modernas;Focado+em+DX%2C+e+automação" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&size=24&center=true&vCenter=true&width=1000&lines=React+%7C+TypeScript+%7C+TailwindCSS+%7C+NextJS+%7C+.NET+WEB+API;Construindo+aplicações+web+modernas;" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🛠 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,mysql,dotnet" />
 </p>
 
 ---
