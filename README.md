@@ -20,7 +20,6 @@
 - 🎨 Desenvolvimento de interfaces modernas com Tailwind, React Query e Zod
 - 🔌 Integração com APIs e plataformas BaaS como Supabase
 - ⚙️ Interesse em arquitetura front-end, experiência do desenvolvedor
-- 🚀 Em busca de oportunidades de Estágio em Desenvolvimento de Software.
 
 ---
 
@@ -68,8 +67,6 @@ Stack: React • Vite • TypeScript • Supabase • React Query • Zod
 </div>
 
 ---
-
-<p align="center">Em busca de oportunidades de Estágio em Desenvolvimento de Software.</p>
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=7aa2f7" />
