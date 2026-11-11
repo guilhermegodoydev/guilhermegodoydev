@@ -31,8 +31,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
 ## Projetos em Destaque
 
 🔹 **FMS** → [Live Demo](https://franchiseos-plum.vercel.app/) | [Repositório](https://github.com/guilhermegodoydev/franchiseos)
